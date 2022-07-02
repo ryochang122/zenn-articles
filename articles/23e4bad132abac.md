@@ -3,7 +3,7 @@ title: "ナレッジが0のチームにwikiを導入した話"
 emoji: "💭"
 type: "tech" 
 topics: ["wiki","growi","team"]
-published: false
+published: true
 ---
 半年ほど前からチームを異動し、別チームに入ってチームリーダーになりました。
 新しく入ったチームも情報を整備されていなく、 知識に偏りがあったり
